@@ -1,5 +1,6 @@
 # 🧠 Pusula Data Science Case Study
 Burak Bora Sayar || 01buraksayar@gmail.com
+--
 ## Case Summary  
 This project was developed as part of the Pusula Intern Data Science 2025 case study.
 Our goal is to analyze the provided patient data (EDA) and prepare it for model training (preprocessing).  
